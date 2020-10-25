@@ -1,40 +1,36 @@
 Country/Region,Temperature,Town/Location,Date
-Afghanistan,49.9 °C (121.8 °F),Farah,August 2009[38]
-Bangladesh,45.1 °C (113.2 °F),Rajshahi,30 May 1972[39]
-Bhutan,40 °C (104 °F),Phuentsholing,27 August 1997[40]
-Cambodia,42.6 °C (108.7 °F),Preah Vihear,15 April 2016[41]
-China,50.5 °C (122.9 °F),"Erbao Township, Turpan, Xinjiang",10 July 2017[42]
-Hong Kong,39.0 °C (102.2 °F),Wetland Park,22 August 2017[22]
-Macau,39.0 °C (102.2 °F),Coloane,22 August 2017[22]
-India,51.0 °C (123.8 °F),"Phalodi, Rajasthan",19 May 2016[43]
-Indonesia,40.6 °C (105.1 °F),"Banjarbaru, South Kalimantan",16 August 1997[44]
-Iran,54 °C (129 °F),Ahvaz Airport (OIAW),29 June 2017[30][45][46]
-Iraq,53.8 °C (128.8 °F),Basra,22 July 2016[45][47]
-Israel (then  Mandatory Palestine),54 °C (129 °F),Tirat Zvi,21 June 1942[12][note 3]
-Japan,41.1 °C (106.0 °F),"Kumagaya, Saitama",23 July 2018[49]
-Jordan,50 °C (122 °F),Jordan University Agriculture Research Center,6 September 2002[50]
-Kazakhstan,49.1 °C (120.4 °F),Turkistan,?[51]
-Kuwait,53.9 °C (129.0 °F),Mitribah,21 July 2016[52][note 4]
-Kyrgyzstan,44.0 °C (111.2 °F),?,?[53]
-Laos,42.3 °C (108.1 °F),Seno,12 April 2016[41]
-Malaysia,40.1 °C (104.2 °F),Chuping,9 April 1998[54]
-Maldives,34.9 °C (94.8 °F),Hanimaadhoo,16 April 2016[41]
-Mongolia,44.0 °C (111.2 °F),"Khongor, Darkhan-Uul Province",24 July 1999[55]
-Myanmar,47.2 °C (117.0 °F),Myinmu,14 May 2010[56][57]
-Nepal,46.4 °C (115.5 °F),Ataria,16 June 1995[58]
-Oman,50.8 °C (123.4 °F),BuraimiSoharQurayyat,July 1990May 200930 May 2017[59]
-Pakistan,53.7 °C (128.7 °F),Mohenjo-Daro and Turbat,28 May 2017[60]26 May 2010[52]
-Philippines (first recorded under the  Insular Government),42.2 °C (108.0 °F),"Tuguegarao, Cagayan Valley",12 April 191211 May 1969[61]
-Qatar,50.4 °C (122.7 °F),Doha,14 July 2010[21]
-"Russia (Siberia) (first in the  Russian Empire, then in the  Russian SFSR,  Soviet Union)",43.2 °C (109.8 °F),"Chita, Zabaykalsky Krai",5 June 1898[62][63]
-Saudi Arabia,52.0 °C (125.6 °F),Jeddah,23 June 2010[64]
-Singapore,37.0 °C (98.6 °F),Tengah,17 April 1983[65]
-South Korea,41.0 °C (105.8 °F),"Hongcheon, Gangwon Province",1 August 2018[66]
-Syria,49.4 °C (120.9 °F),?,?[67]
-Taiwan,40.3 °C (104.5 °F),"Tianxiang, Hualien County",9 July 2018[17][68]
-Tajikistan,48.0 °C (118.4 °F),Panji Poyon,?[69]
-Thailand,44.6 °C (112.3 °F),Mae Hong Son,28 April 2016[41]
-Turkey,49.0 °C (120.2 °F),"Cizre, Şırnak Province",27 August 1961[70]
-"Turkmenistan (then the  Turkmen SSR,  Soviet Union)",50.1 °C (122.2 °F),"Repetek Biosphere State Reserve, Karakum Desert",28 July 1983[71][72]
-United Arab Emirates,52.1 °C (125.8 °F),Al Jazeera Border Gate,July 2002[73][74]
-Vietnam,43.4 °C (110.1 °F),Huong Khe District,20 April 2019[75]
+Afghanistan,49.9 °C (121.8 °F),Farah,2009-08
+Bangladesh,45.1 °C (113.2 °F),Rajshahi,1972-03
+Bhutan,40 °C (104 °F),Phuentsholing,1997-08
+Cambodia,42.6 °C (108.7 °F),Preah Vihear,2016-04
+China,50.5 °C (122.9 °F),"Erbao Township, Turpan, Xinjiang",2017-07
+Hong Kong,39.0 °C (102.2 °F),Wetland Park,2017-11
+Macau,39.0 °C (102.2 °F),Coloane,2017-08
+India,51.0 °C (123.8 °F),"Phalodi, Rajasthan",2016-05
+Indonesia,40.6 °C (105.1 °F),"Banjarbaru, South Kalimantan",1997-08
+Iran,54 °C (129 °F),Ahvaz Airport (OIAW),017-06
+Iraq,53.8 °C (128.8 °F),Basra,2016-07
+Israel (then  Mandatory Palestine),54 °C (129 °F),Tirat Zvi,1942-06
+Japan,41.1 °C (106.0 °F),"Kumagaya, Saitama",2018-07
+Jordan,50 °C (122 °F),Jordan University Agriculture Research Center,2002-09
+Kuwait,53.9 °C (129.0 °F),Mitribah,2016-07
+Laos,42.3 °C (108.1 °F),Seno,2016-04
+Malaysia,40.1 °C (104.2 °F),Chuping,1998-04
+Maldives,34.9 °C (94.8 °F),Hanimaadhoo,2016-04
+Mongolia,44.0 °C (111.2 °F),"Khongor, Darkhan-Uul Province",1999-07
+Myanmar,47.2 °C (117.0 °F),Myinmu,2010-05
+Nepal,46.4 °C (115.5 °F),Ataria,1995-06
+Oman,50.8 °C (123.4 °F),BuraimiSoharQurayyat,2017-05
+Pakistan,53.7 °C (128.7 °F),Mohenjo-Daro and Turbat,2017-05
+Philippines (first recorded under the  Insular Government),42.2 °C (108.0 °F),"Tuguegarao, Cagayan Valley",1969-05
+Qatar,50.4 °C (122.7 °F),Doha,2010-04
+Saudi Arabia,52.0 °C (125.6 °F),Jeddah,2010-06
+Singapore,37.0 °C (98.6 °F),Tengah,1983-04
+South Korea,41.0 °C (105.8 °F),"Hongcheon, Gangwon Province",2018-08
+Taiwan,40.3 °C (104.5 °F),"Tianxiang, Hualien County",2018-07
+Tajikistan,48.0 °C (118.4 °F),Panji Poyon,2010-06
+Thailand,44.6 °C (112.3 °F),Mae Hong Son,2016-04
+Turkey,49.0 °C (120.2 °F),"Cizre, Şırnak Province",1961-08
+"Turkmenistan (then the  Turkmen SSR,  Soviet Union)",50.1 °C (122.2 °F),"Repetek Biosphere State Reserve, Karakum Desert",1983-07
+United Arab Emirates,52.1 °C (125.8 °F),Al Jazeera Border Gate,002-07
+Vietnam,43.4 °C (110.1 °F),Huong Khe District,2019-04
